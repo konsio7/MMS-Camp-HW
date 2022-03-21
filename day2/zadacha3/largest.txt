@@ -1,0 +1,1 @@
+cat numbers.txt | sort -nr | head -n 1
